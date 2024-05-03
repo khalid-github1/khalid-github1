@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KHALID PATHE</h1>
+<h1 align="center">Hi 👋, I'm KHALID</h1>
 <h3 align="center">A passionate Software Tester</h3>
 
 <img align="right" alt="coding" width="400" src="https://irp-cdn.multiscreensite.com/599c5dd6/dms3rep/multi/Thoroughness+in+Testing.gif">
